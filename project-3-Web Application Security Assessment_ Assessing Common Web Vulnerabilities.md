@@ -1,8 +1,7 @@
 # Web Application Security Assessment: Assessing Common Web Vulnerabilities
 
 ## Introduction
-Web applications are common targets for attackers due to the critical data they handle and their accessibility over the internet. This project will guide you through a web application security assessment, focusing on identifying common vulnerabilities. You will use various tools to scan, analyze, and secure your web applications.
-
+Web applications are common targets for attackers because of the critical data they handle and their accessibility over the internet. In this project, I conducted a web application security assessment, focusing on identifying common vulnerabilities. I used various tools to scan, analyze, and secure web applications, gaining practical skills in protecting online systems and sensitive data.
 ## Pre-requisites
 - Basic understanding of web application concepts (HTTP, HTTPS, HTML, etc.)
 - Familiarity with the Linux command line
@@ -119,4 +118,4 @@ Web applications are common targets for attackers due to the critical data they 
 - Report detailing potential vulnerabilities found through fuzzing.
 
 ## Conclusion
-By completing these exercises, you have learned how to identify and assess common web application vulnerabilities using various tools. These skills are essential for securing web applications and protecting sensitive data from cyber threats.
+By completing these exercises, I learned how to identify and assess common web application vulnerabilities using various tools. These skills are essential for securing web applications and protecting sensitive data from cyber threats.
