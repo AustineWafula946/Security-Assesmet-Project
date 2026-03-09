@@ -136,4 +136,4 @@ Network security is crucial for protecting an organization's data and resources 
 - Successful exploitation will open a Meterpreter session on the target machine.
 
 ## Conclusion
-By completing these exercises, you have learned how to identify and assess common network security vulnerabilities using various tools. This knowledge is fundamental for performing more advanced security assessments and protecting network infrastructures.
+By completing these exercises, I learned how to identify and assess common network security vulnerabilities using various tools. This experience has helped me build a strong foundation for performing advanced security assessments and improving the security of network infrastructures.
