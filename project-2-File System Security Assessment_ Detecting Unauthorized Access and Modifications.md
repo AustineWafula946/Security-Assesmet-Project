@@ -1,7 +1,7 @@
 # File System Security Assessment: Detecting Unauthorized Access and Modifications
 
 ## Introduction
-File system security is essential for ensuring that sensitive data is protected from unauthorized access and modifications. This project will guide you through a file system security assessment, focusing on identifying unauthorized access and changes to files. You will use various tools to monitor, analyze, and secure the file system.
+File system security is essential for protecting sensitive data from unauthorized access and modifications. In this project, I conducted a file system security assessment, focusing on identifying unauthorized access and changes to files. I used various tools to monitor, analyze, and secure the file system, gaining practical skills in protecting critical data.
 
 ## Pre-requisites
 - Basic understanding of file system concepts (permissions, file types, etc.)
@@ -131,5 +131,5 @@ File system security is essential for ensuring that sensitive data is protected 
 **Expected Output**:
 - Report indicating whether any rootkits were found on the system.
 
-## Conclusion
-By completing these exercises, you have learned how to monitor and assess file system security to detect unauthorized access and modifications. These skills are essential for maintaining the integrity and confidentiality of sensitive data in your system.
+#conlusion
+By completing these exercises, I learned how to monitor and assess file system security to detect unauthorized access and modifications. These skills are essential for maintaining the integrity and confidentiality of sensitive data in any system.
