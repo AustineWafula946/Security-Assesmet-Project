@@ -1,7 +1,7 @@
 # System Log Assessment: Analyzing Logs for Potential Security Incidents
 
 ## Introduction
-System logs are vital for tracking system activities, diagnosing issues, and identifying potential security incidents. This project will guide you through a system log assessment, focusing on analyzing logs to detect suspicious activities. You will use various tools to collect, analyze, and interpret log data.
+System logs are vital for tracking system activities, diagnosing issues, and identifying potential security incidents. In this project, I conducted a system log assessment, focusing on analyzing logs to detect suspicious activities. I used various tools to collect, analyze, and interpret log data, gaining practical skills in monitoring and securing systems.
 
 ## Pre-requisites
 - Basic understanding of system logging concepts (log files, log levels, etc.)
@@ -165,4 +165,4 @@ System logs are vital for tracking system activities, diagnosing issues, and ide
 - Interactive dashboards in Kibana displaying log data from Elasticsearch.
 
 ## Conclusion
-By completing these exercises, you have learned how to collect, analyze, and interpret system logs using various tools. These skills are essential for detecting and responding to potential security incidents in your system.
+By completing these exercises, I learned how to collect, analyze, and interpret system logs using various tools. These skills are essential for detecting and responding to potential security incidents and strengthening overall system security.
