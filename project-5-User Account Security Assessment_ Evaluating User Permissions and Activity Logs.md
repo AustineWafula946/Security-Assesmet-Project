@@ -1,7 +1,7 @@
 # User Account Security Assessment: Evaluating User Permissions and Activity Logs
 
 ## Introduction
-User account security is critical for preventing unauthorized access and ensuring that users have appropriate permissions. This project will guide you through a user account security assessment, focusing on evaluating user permissions and analyzing user activity logs. You will use various tools to audit, analyze, and secure user accounts.
+User account security is critical for preventing unauthorized access and ensuring that users have appropriate permissions. In this project, I conducted a user account security assessment, focusing on evaluating user permissions and analyzing user activity logs. I used various tools to audit, analyze, and secure user accounts, gaining practical skills in managing and protecting system users.
 
 ## Pre-requisites
 - Basic understanding of user account concepts (usernames, groups, permissions, etc.)
@@ -137,4 +137,4 @@ User account security is critical for preventing unauthorized access and ensurin
 - List of failed login attempts and confirmation of any resets or configuration changes.
 
 ## Conclusion
-By completing these exercises, you have learned how to evaluate user permissions and analyze user activity logs to ensure user account security. These skills are essential for preventing unauthorized access and maintaining the integrity of user accounts in your system.
+By completing these exercises, I learned how to evaluate user permissions and analyze user activity logs to ensure user account security. These skills are essential for preventing unauthorized access and maintaining the integrity of user accounts in any system.
